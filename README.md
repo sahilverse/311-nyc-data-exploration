@@ -54,6 +54,10 @@ data/
 ├── Customer Service_Requests_from_2010_to_Present.csv
 ```
 
+## 📂 Link for the Data
+[Click here to download the dataset](https://www.dropbox.com/scl/fo/s42jh8gl4go3zugkv35hq/ALmOdUlSyX3WP-4t-kRTro4?rlkey=mdapp4glk5wyzeku6e5vkizxr&st=pndtcplt&dl=0)
+
+
 ## 🚀 How to Run
 
 1. Clone the repository
@@ -67,3 +71,5 @@ data/
 ## 📝 License
 
 This project is for educational and research purposes only. Original dataset © NYC Open Data.
+
+
