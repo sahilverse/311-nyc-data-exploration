@@ -70,5 +70,3 @@ data/
 ## 📝 License
 
 This project is for educational and research purposes only. Original dataset © NYC Open Data.
-
-
